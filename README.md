@@ -70,14 +70,13 @@ Focused on:
 
 ## Certifications & Training
 - Security+
-- (Add others here)
 - Ongoing advanced cybersecurity research and development
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: <LINK>
+- LinkedIn: https://www.linkedin.com/in/matthew-g-leonard/
 - Website: https://blackfeathersecurity.com
 
 ---
