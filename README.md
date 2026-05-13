@@ -1,13 +1,85 @@
-👋 Hi, I’m @mgleopard
+# Matthew Leonard
 
-👀 I’m interested in advanced cybersecurity methods, ethical hacking, and network architecture.
+## Director of Security Operations | Black Feather Security
 
-🌱 I’m currently learning advanced Python scripting and cloud security on Azure.
+USMC veteran with 12+ years in cybersecurity, network security, and security operations.
 
-💞️ I’m looking to collaborate on open-source security projects and innovative cybersecurity solutions.
+My focus areas include:
 
-📫 How to reach me: Email me at m.g.lepard@gmail.com
+- Purple Team Operations
+- Adversary Simulation
+- Detection Engineering
+- Threat-Informed Defense
+- Security Monitoring & Response
+- Web Application Security
+- Security Automation
 
-😄 Pronouns: He/Him
+I build practical security solutions that help organizations improve visibility, detection capability, and operational resilience.
 
-⚡ Fun fact: Former Marine Corps Vet who loves to decode complex tech challenges.
+---
+
+## Current Projects
+
+### RAVEN-SIM
+Threat-informed adversary simulation framework focused on validating detection and response capabilities against realistic attacker behaviors.
+
+### BFSPrime
+Hardened purple-team workstation and operational environment for offensive and defensive security operations.
+
+### Detection Engineering Lab
+Focused on:
+- Wazuh
+- SIEM tuning
+- Alert engineering
+- Log analysis
+- ATT&CK mapping
+- Incident response workflows
+
+---
+
+## Technical Focus
+
+### Security Operations
+- Wazuh
+- DFIR-IRIS
+- SIEM Engineering
+- Detection Tuning
+- Threat Hunting
+
+### Offensive Security
+- Web Application Testing
+- Attack Surface Analysis
+- Credential Attack Simulation
+- OSINT
+- Infrastructure Assessment
+
+### Infrastructure
+- Proxmox
+- Ubuntu/Linux
+- Docker
+- Networking
+- Azure
+
+### Development & Automation
+- Python
+- Bash
+- HTML/CSS
+- Security Automation
+
+---
+
+## Certifications & Training
+- Security+
+- (Add others here)
+- Ongoing advanced cybersecurity research and development
+
+---
+
+## Connect With Me
+
+- LinkedIn: <LINK>
+- Website: https://blackfeathersecurity.com
+
+---
+
+> "See the attack. Become the defense."
